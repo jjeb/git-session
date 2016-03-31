@@ -1,3 +1,7 @@
 This is a test
 
 This is Justin testing, changed, this is a change
+
+Adding third line
+
+Adding fourth
